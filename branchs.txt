@@ -1,0 +1,1 @@
+Branchs são basicamente versões paralelas de um determinado projeto git.

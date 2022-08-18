@@ -1,0 +1,1 @@
+Conectar uma reposito git ao github é extremamente simples e com alguns comandos é possivel vincular, enviar e baixar atualizações.

@@ -1,0 +1,7 @@
+git init = Inicializar git.
+git clone = Clonar repositório.
+git branch = Exibir quantos repositórios existem no projeto.
+git checkout "nome-do-repositorio" = Mudar para o branch que deseja.
+git status = Exibi o status atual dos arquivos e do branch.
+touch "nome-do-arquivo.extensão" = cria um arquivo de acordo com nome e extensão fornecida.
+etc...

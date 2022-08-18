@@ -1,0 +1,1 @@
+Processo de instalação do git e configurar suas informações com e-mail e nome no git.

@@ -1,1 +1,1 @@
-Resumo de aprendizado Git e Github
+Resumo de aprendizado Git e Github.
